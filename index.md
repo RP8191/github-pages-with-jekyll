@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Personal notes on various topics and sometimes random thoughts. I always wanted to have a personal website but never came around to doing it. Hopefully there will be enought contect this time around.  
